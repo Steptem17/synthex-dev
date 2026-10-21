@@ -3,7 +3,7 @@
 **Frontend Engineer & Web Developer**  
 *Building high-performance web applications, responsive interfaces, and scalable digital experiences.*
 
-[Live Portfolio](https://stephenidowu.dev) &bull; [Featured Projects](#featured-projects) &bull; [Core Technologies](#core-technologies) &bull; [Contact](#contact)
+[Live Portfolio](https://synthex-dev.vercel.app) &bull; [Featured Projects](#featured-projects) &bull; [Core Technologies](#core-technologies) &bull; [Contact](#contact)
 
 ---
 
@@ -125,7 +125,7 @@ The application implements structured data (JSON-LD) to deliver accurate, rich S
 
 ```text
 Synthex | Web Developer & Frontend Specialist
-https://stephenidowu.dev
+https://synthex-dev.vercel.app
 Synthex is a Web Developer crafting high-performance, responsive web applications 
 with React, TypeScript, and modern UI architectures. Explore selected client projects.
 Rating: 5.0 ★★★★★ (18 reviews)

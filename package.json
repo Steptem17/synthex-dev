@@ -1,8 +1,8 @@
 {
-  "name": "stephen-idowu-portfolio",
+  "name": "synthex-portfolio",
   "version": "1.0.0",
-  "description": "Personal portfolio website of Stephen Idowu - Web Developer & Frontend Specialist.",
-  "author": "Stephen Idowu <steptem17@gmail.com>",
+  "description": "Personal portfolio website of Synthex - Web Developer & Frontend Specialist.",
+  "author": "Synthex <synthex.dev17@gmail.com>",
   "license": "MIT",
   "private": true,
   "type": "module",

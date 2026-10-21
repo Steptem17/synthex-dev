@@ -27,7 +27,7 @@ const Privacy = () => {
         </p>
         <h2 className="text-xl font-bold text-zinc-950 dark:text-white">4. Contact Me</h2>
         <p>
-          If you have any questions about this Privacy Policy, please contact me at steptem17@gmail.com.
+          If you have any questions about this Privacy Policy, please contact me at synthex.dev17@gmail.com.
         </p>
       </div>
     </motion.div>

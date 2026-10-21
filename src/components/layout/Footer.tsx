@@ -16,7 +16,7 @@ const Footer = () => {
     { label: 'GitHub', href: 'https://github.com/steptem17', icon: <FaGithub size={17} /> },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/stephen-idowu-b1b591246/', icon: <FaLinkedin size={17} /> },
     { label: 'WhatsApp', href: 'https://wa.me/2348103383243', icon: <FaWhatsapp size={17} /> },
-    { label: 'Email', href: 'mailto:steptem17@gmail.com', icon: <Mail size={17} /> }
+    { label: 'Email', href: 'mailto:synthex.dev17@gmail.com', icon: <Mail size={17} /> }
   ]
 
   return (
@@ -28,7 +28,7 @@ const Footer = () => {
           
           {/* Brand & Bio Column */}
           <div className="md:col-span-2 lg:col-span-5 space-y-5 sm:space-y-6">
-            <Logo size={58} showText={true} />
+            <Logo size={54} showText={true} />
             <p className="text-zinc-600 dark:text-slate-300 text-sm leading-relaxed max-w-sm">
               Web developer specializing in building clean, responsive, and high-performance websites and web applications with React, TypeScript, and modern CSS.
             </p>
@@ -81,10 +81,10 @@ const Footer = () => {
                   Direct Email
                 </div>
                 <a 
-                  href="mailto:steptem17@gmail.com" 
+                  href="mailto:synthex.dev17@gmail.com" 
                   className="text-sm font-medium text-zinc-900 dark:text-white hover:text-zinc-600 dark:hover:text-slate-300 transition-colors inline-block py-0.5"
                 >
-                  steptem17@gmail.com
+                  synthex.dev17@gmail.com
                 </a>
               </div>
               <div>
@@ -116,7 +116,7 @@ const Footer = () => {
         {/* Bottom Copyright & Back to Top Bar */}
         <div className="pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-zinc-500 dark:text-slate-400 text-center sm:text-left">
           <div>
-            &copy; {currentYear} Idowu Stephen &mdash; Web Developer. All rights reserved.
+            &copy; {currentYear} Synthex &mdash; Web Developer. All rights reserved.
           </div>
           <button 
             onClick={() => {

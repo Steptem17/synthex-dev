@@ -234,7 +234,7 @@ const Navbar = () => {
               className="flex items-center select-none cursor-default" 
               aria-label="Home"
             >
-              <Logo size={68} />
+              <Logo size={52} />
             </Link>
           </div>
 
@@ -336,7 +336,7 @@ const Navbar = () => {
                 }}
                 className="flex items-center select-none cursor-default"
               >
-                <Logo size={58} />
+                <Logo size={46} />
               </Link>
 
               <div className="flex items-center gap-4 sm:gap-5">
@@ -386,10 +386,10 @@ const Navbar = () => {
             >
               <div className="flex flex-col gap-1">
                 <a 
-                  href="mailto:steptem17@gmail.com" 
+                  href="mailto:synthex.dev17@gmail.com" 
                   className="text-sm font-medium text-zinc-900 dark:text-slate-200 hover:opacity-75 transition-opacity"
                 >
-                  steptem17@gmail.com
+                  synthex.dev17@gmail.com
                 </a>
                 <span className="text-xs text-zinc-500 dark:text-slate-400">
                   Based in Nigeria &middot; Available Worldwide
@@ -409,7 +409,7 @@ const Navbar = () => {
               {/* Social Icons Row at the Bottom */}
               <div className="flex items-center gap-7 pt-4 text-zinc-600 dark:text-slate-300">
                 <a
-                  href="mailto:steptem17@gmail.com"
+                  href="mailto:synthex.dev17@gmail.com"
                   aria-label="Email"
                   className="hover:text-zinc-950 dark:hover:text-white transition-colors"
                 >

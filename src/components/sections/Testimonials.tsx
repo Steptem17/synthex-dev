@@ -24,7 +24,7 @@ const Testimonials = () => {
       role: 'Founder & CEO',
       company: 'LuxeCommerce',
       image: '👩‍💼',
-      content: 'Stephen transformed our vision into a stunning e-commerce platform. His attention to detail and commitment to performance exceeded our expectations. The site loads instantly and converts 35% better than our previous solution.',
+      content: 'Synthex transformed our vision into a stunning e-commerce platform. His attention to detail and commitment to performance exceeded our expectations. The site loads instantly and converts 35% better than our previous solution.',
       rating: 5,
       project: 'E-commerce Redesign',
       industry: 'Fashion Retail'
@@ -35,7 +35,7 @@ const Testimonials = () => {
       role: 'Technical Lead',
       company: 'FinScale Analytics',
       image: '👨‍💻',
-      content: 'Working with Stephen was a game-changer for our dashboard project. His React expertise and clean code architecture made integration seamless. He delivered ahead of schedule and the performance gains were remarkable.',
+      content: 'Working with Synthex was a game-changer for our dashboard project. His React expertise and clean code architecture made integration seamless. He delivered ahead of schedule and the performance gains were remarkable.',
       rating: 5,
       project: 'Analytics Dashboard',
       industry: 'FinTech'
@@ -46,7 +46,7 @@ const Testimonials = () => {
       role: 'Creative Director',
       company: 'Studio Lumina',
       image: '👩‍🎨',
-      content: "Stephen is that rare developer who truly understands design. He brought our complex animations to life while maintaining buttery-smooth performance. Our clients can't stop praising the site experience.",
+      content: "Synthex is that rare developer who truly understands design. He brought our complex animations to life while maintaining buttery-smooth performance. Our clients can't stop praising the site experience.",
       rating: 5,
       project: 'Agency Portfolio',
       industry: 'Creative Agency'
@@ -57,7 +57,7 @@ const Testimonials = () => {
       role: 'Product Manager',
       company: 'HealthTech Solutions',
       image: '👨‍⚕️',
-      content: 'I was impressed by Stephen\'s proactive communication and problem-solving approach. He didn\'t just build what we asked for—he suggested improvements that enhanced the user experience significantly.',
+      content: 'I was impressed by Synthex\'s proactive communication and problem-solving approach. He didn\'t just build what we asked for—he suggested improvements that enhanced the user experience significantly.',
       rating: 5,
       project: 'Patient Portal',
       industry: 'Healthcare'
@@ -68,7 +68,7 @@ const Testimonials = () => {
       role: 'Startup Founder',
       company: 'MindfulAI',
       image: '👩‍🚀',
-      content: 'As a non-technical founder, I needed someone who could guide me through the development process. Stephen explained everything clearly and delivered a product that helped us secure our seed round.',
+      content: 'As a non-technical founder, I needed someone who could guide me through the development process. Synthex explained everything clearly and delivered a product that helped us secure our seed round.',
       rating: 5,
       project: 'MVP Development',
       industry: 'AI / SaaS'

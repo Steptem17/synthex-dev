@@ -65,7 +65,7 @@ const Contact = () => {
       const err = error as { text?: string; message?: string }
       console.error('EmailJS Error:', error)
       setSubmitStatus('error')
-      setErrorMessage(err?.text || err?.message || 'Transmission failed. Please email steptem17@gmail.com directly.')
+      setErrorMessage(err?.text || err?.message || 'Transmission failed. Please email synthex.dev17@gmail.com directly.')
     } finally {
       setIsSubmitting(false)
     }
@@ -118,10 +118,10 @@ const Contact = () => {
                   Direct Email
                 </div>
                 <a 
-                  href="mailto:steptem17@gmail.com" 
+                  href="mailto:synthex.dev17@gmail.com" 
                   className="text-base font-medium text-zinc-950 dark:text-white hover:text-zinc-600 dark:hover:text-slate-300 transition-colors"
                 >
-                  steptem17@gmail.com
+                  synthex.dev17@gmail.com
                 </a>
               </div>
 
@@ -186,7 +186,7 @@ const Contact = () => {
                   <FaWhatsapp size={18} />
                 </a>
                 <a
-                  href="mailto:steptem17@gmail.com"
+                  href="mailto:synthex.dev17@gmail.com"
                   className="w-10 h-10 rounded-xl bg-zinc-50 dark:bg-slate-800/40 border border-zinc-200 dark:border-slate-700/70 flex items-center justify-center text-zinc-600 dark:text-slate-400 hover:text-zinc-950 dark:hover:text-white hover:border-zinc-400 dark:hover:border-slate-500 hover:bg-zinc-100 dark:hover:bg-slate-800 transition-all active:scale-95"
                   aria-label="Email"
                   title="Email"
@@ -208,6 +208,10 @@ const Contact = () => {
             <form ref={formRef} onSubmit={handleSubmit} className="space-y-8">
               
               {/* Hidden EmailJS Mapping Fields */}
+              <input type="hidden" name="to_name" value="Synthex" />
+              <input type="hidden" name="to_email" value="synthex.dev17@gmail.com" />
+              <input type="hidden" name="recipient" value="synthex.dev17@gmail.com" />
+              <input type="hidden" name="name" value={fullName || formData.firstName} />
               <input type="hidden" name="from_name" value={fullName || formData.firstName} />
               <input type="hidden" name="from_email" value={formData.email} />
               <input type="hidden" name="reply_to" value={formData.email} />
@@ -431,8 +435,8 @@ const Contact = () => {
                   </h5>
                   <p>
                     Your message is encrypted and delivered securely over TLS. If you would like your messages or contact details erased from our records at any time, simply email{' '}
-                    <a href="mailto:steptem17@gmail.com" className="text-zinc-950 dark:text-white font-medium hover:underline">
-                      steptem17@gmail.com
+                    <a href="mailto:synthex.dev17@gmail.com" className="text-zinc-950 dark:text-white font-medium hover:underline">
+                      synthex.dev17@gmail.com
                     </a>{' '}
                     and they will be promptly deleted.
                   </p>

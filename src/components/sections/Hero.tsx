@@ -22,7 +22,7 @@ const Hero = () => {
   }
 
   const socialLinks = [
-    { label: 'Email', href: 'mailto:steptem17@gmail.com', icon: <Mail size={22} />, title: 'Email Me' },
+    { label: 'Email', href: 'mailto:synthex.dev17@gmail.com', icon: <Mail size={22} />, title: 'Email Me' },
     { label: 'GitHub', href: 'https://github.com/steptem17', icon: <FaGithub size={22} />, title: 'GitHub' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/stephen-idowu-b1b591246/', icon: <FaLinkedin size={22} />, title: 'LinkedIn' }
   ]
@@ -61,7 +61,7 @@ const Hero = () => {
             >
               <div>
                 <div className="text-3xl sm:text-4xl lg:text-5xl font-normal text-zinc-950 dark:text-white tracking-tight">
-                  5+
+                  10+
                 </div>
                 <div className="text-xs sm:text-sm text-zinc-500 dark:text-slate-300 font-medium mt-1">
                   Projects completed
@@ -97,7 +97,7 @@ const Hero = () => {
                 className="text-base sm:text-lg md:text-xl lg:text-2xl text-zinc-700 dark:text-slate-200 font-medium mt-6 flex items-center gap-2.5 font-sans"
               >
                 <span className="text-zinc-400 dark:text-slate-500">—</span>
-                <span>It's <strong className="font-bold text-zinc-950 dark:text-white">Stephen</strong>, a web developer</span>
+                <span>It's <strong className="font-bold text-zinc-950 dark:text-white">Synthex</strong>, a web developer</span>
               </motion.p>
             </div>
 
@@ -162,7 +162,7 @@ const Hero = () => {
               <div className="w-full h-full rounded-2xl overflow-hidden hover:grayscale-0 transition-all duration-700">
                 <img
                   src={profileImage}
-                  alt="Stephen Idowu"
+                  alt="Synthex"
                   className="w-full h-full object-cover select-none"
                 />
               </div>

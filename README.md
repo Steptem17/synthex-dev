@@ -1,4 +1,4 @@
-# Stephen Idowu
+# Synthex
 
 **Frontend Engineer & Web Developer**  
 *Building high-performance web applications, responsive interfaces, and scalable digital experiences.*
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the source code for the personal portfolio of **Stephen Idowu**. The platform showcases production-grade client applications, engineering case studies, interactive UI components, and technical capabilities across modern web stacks.
+This repository contains the source code for the personal portfolio of **Synthex**. The platform showcases production-grade client applications, engineering case studies, interactive UI components, and technical capabilities across modern web stacks.
 
 Key engineering highlights:
 - **Performance & Modern Tooling**: Built with React 19, TypeScript, and Vite for fast compilation, minimal bundle footprints, and high Lighthouse scores.
@@ -124,13 +124,13 @@ Idowu-Stephen/
 The application implements structured data (JSON-LD) to deliver accurate, rich SERP presentation on search engines:
 
 ```text
-Stephen Idowu | Web Developer & Frontend Specialist
+Synthex | Web Developer & Frontend Specialist
 https://stephenidowu.dev
-Stephen Idowu is a Web Developer crafting high-performance, responsive web applications 
+Synthex is a Web Developer crafting high-performance, responsive web applications 
 with React, TypeScript, and modern UI architectures. Explore selected client projects.
 Rating: 5.0 ★★★★★ (18 reviews)
 
-• About Stephen Idowu          • Featured Projects
+• About Synthex                • Featured Projects
 • Technical Stack              • Contact & Availability
 ```
 
@@ -138,13 +138,13 @@ Rating: 5.0 ★★★★★ (18 reviews)
 
 ## Contact
 
-- **Email**: [steptem17@gmail.com](mailto:steptem17@gmail.com)
+- **Email**: [synthex.dev17@gmail.com](mailto:synthex.dev17@gmail.com)
 - **WhatsApp**: [+234 810 338 3243](https://wa.me/2348103383243)
-- **LinkedIn**: [Stephen Idowu](https://www.linkedin.com/in/stephen-idowu-b1b591246/)
+- **LinkedIn**: [Synthex](https://www.linkedin.com/in/stephen-idowu-b1b591246/)
 - **GitHub**: [@steptem17](https://github.com/steptem17)
 
 ---
 
 <div align="center">
-  <sub>&copy; 2026 Stephen Idowu. All rights reserved.</sub>
+  <sub>&copy; 2026 Synthex. All rights reserved.</sub>
 </div>

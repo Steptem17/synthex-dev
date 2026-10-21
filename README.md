@@ -53,8 +53,8 @@ Key engineering highlights:
 Idowu-Stephen/
 ├── public/
 │   ├── brand/
-│   │   ├── idowu-logo-dark.png    # Dark theme brand asset
-│   │   └── idowu-logo-light.png   # Light theme brand asset
+│   │   ├── synthex-logo-dark.png    # Dark theme brand asset
+│   │   └── synthex-logo-light.png   # Light theme brand asset
 │   ├── icons/
 │   │   ├── favicon.ico            # Web favicon
 │   │   ├── favicon-32x32.png      # High-resolution browser icon

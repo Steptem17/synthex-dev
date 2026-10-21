@@ -19,13 +19,13 @@ export const Logo: React.FC<LogoProps> = ({
       >
         {/* Light mode: dark logo */}
         <img
-          src="/brand/idowu-logo-dark.png"
+          src="/brand/synthex-logo-dark.png"
           alt="Synthex"
           className="h-full w-auto object-contain block dark:hidden drop-shadow-xs"
         />
         {/* Dark mode: crisp white logo */}
         <img
-          src="/brand/idowu-logo-light.png"
+          src="/brand/synthex-logo-light.png"
           alt="Synthex"
           className="h-full w-auto object-contain hidden dark:block drop-shadow-xs"
         />
